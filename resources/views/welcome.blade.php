@@ -11,7 +11,7 @@
     </head>
     <body>
         <div class="container mt-2">
-            <h1>YouWeb</h1>
+            <h1>Alta Gestión Clinica</h1>
         </div>
 
         <!-- Optional JavaScript -->
